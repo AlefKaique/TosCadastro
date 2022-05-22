@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-[#181818] text-zinc-100;
+    font-family: 'Roboto';
+    font-weight: 400;
+}
